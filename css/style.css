@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(250, 94, 154);
+}
+
+
+table{
+    background-color: rgb(231, 36, 143);
+    border-collapse: collapse;
+    width: 100%;
+}
+li, ul{
+    font-family: 'Segoe UI';
+}
+h1{
+    font-family: Arial;
+}
